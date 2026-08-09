@@ -6,3 +6,4 @@
 | 4 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 09 Aug 2026 | 08:46 pm |
 | 5 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 09 Aug 2026 | 08:53 pm |
 | 6 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 09 Aug 2026 | 09:00 pm |
+| 7 | [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 09 Aug 2026 | 09:05 pm |
