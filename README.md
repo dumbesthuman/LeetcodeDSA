@@ -5,3 +5,4 @@
 | 3 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 09 Aug 2026 | 08:27 pm |
 | 4 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 09 Aug 2026 | 08:46 pm |
 | 5 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 09 Aug 2026 | 08:53 pm |
+| 6 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 09 Aug 2026 | 09:00 pm |
