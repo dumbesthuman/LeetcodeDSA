@@ -12,3 +12,4 @@
 | 10 | [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) | [LeetCode](https://leetcode.com/problems/find-pivot-index/) | Easy | 09 Aug 2026 | 09:38 pm |
 | 11 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 10 Aug 2026 | 08:38 pm |
 | 12 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 10 Aug 2026 | 08:54 pm |
+| 13 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 10 Aug 2026 | 09:40 pm |
