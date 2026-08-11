@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 0
   },
@@ -27,15 +27,17 @@
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "LeetCode_Remove_Element": true,
     "LeetCode_Squares_of_a_Sorted_Array": true,
-    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true
+    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-08-09": 10,
     "2026-08-10": 5,
-    "2026-08-11": 2
+    "2026-08-11": 3
   },
   "todayProblems": [
     "Squares of a Sorted Array",
-    "Two Sum II - Input Array Is Sorted"
+    "Two Sum II - Input Array Is Sorted",
+    "Container With Most Water"
   ]
 }
