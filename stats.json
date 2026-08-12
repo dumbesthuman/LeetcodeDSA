@@ -1,12 +1,12 @@
 {
-  "totalSolved": 22,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-08-11",
-  "todayCount": 7,
+  "totalSolved": 23,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-08-12",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 0
   },
@@ -32,20 +32,16 @@
     "LeetCode_Merge_Sorted_Array": true,
     "LeetCode_Missing_Number": true,
     "LeetCode_Find_the_Duplicate_Number": true,
-    "LeetCode_Rotate_Image": true
+    "LeetCode_Rotate_Image": true,
+    "LeetCode_3Sum": true
   },
   "activityHistory": {
     "2026-08-09": 10,
     "2026-08-10": 5,
-    "2026-08-11": 7
+    "2026-08-11": 7,
+    "2026-08-12": 1
   },
   "todayProblems": [
-    "Squares of a Sorted Array",
-    "Two Sum II - Input Array Is Sorted",
-    "Container With Most Water",
-    "Merge Sorted Array",
-    "Missing Number",
-    "Find the Duplicate Number",
-    "Rotate Image"
+    "3Sum"
   ]
 }
