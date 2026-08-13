@@ -1,11 +1,11 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-13",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 19,
+    "easy": 20,
     "medium": 8,
     "hard": 1,
     "basic": 0
@@ -38,19 +38,21 @@
     "LeetCode_Valid_Parentheses": true,
     "LeetCode_Reverse_Linked_List": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
-    "LeetCode_Linked_List_Cycle": true
+    "LeetCode_Linked_List_Cycle": true,
+    "LeetCode_Binary_Search": true
   },
   "activityHistory": {
     "2026-08-09": 10,
     "2026-08-10": 5,
     "2026-08-11": 7,
     "2026-08-12": 2,
-    "2026-08-13": 4
+    "2026-08-13": 5
   },
   "todayProblems": [
     "Valid Parentheses",
     "Reverse Linked List",
     "Merge Two Sorted Lists",
-    "Linked List Cycle"
+    "Linked List Cycle",
+    "Binary Search"
   ]
 }
