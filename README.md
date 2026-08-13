@@ -29,3 +29,4 @@
 | 27 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 13 Aug 2026 | 08:37 pm |
 | 28 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 13 Aug 2026 | 08:41 pm |
 | 29 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 13 Aug 2026 | 08:46 pm |
+| 30 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 13 Aug 2026 | 08:52 pm |
