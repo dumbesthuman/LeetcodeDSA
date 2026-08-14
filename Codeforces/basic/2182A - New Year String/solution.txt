@@ -1,0 +1,58 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t;
+    cin >> t;
+    while (t--) {
+        int n;
+        cin >> n;
+        string s;
+        cin >> s;
+
+        // Check if "2025" exists
+        bool has2025 = false;
+        for (int i = 0; i + 3 < n; i++) {
+            if (s.substr(i, 4) == "2025") {
+                has2025 = true;
+                break;
+            }
+        }
+
+        // Check if "2026" exists
+        bool has2026 = false;
+        for (int i = 0; i + 3 < n; i++) {
+            if (s.substr(i, 4) == "2026") {
+                has2026 = true;
+                break;
+            }
+        }
+
+        // If already a New Year string
+        if (!has2025 || has2026) {
+            cout << 0 << "\n";
+            continue;
+        }
+
+        // Option 1: Make "2026"
+        int make2026 = 4; // max changes needed is 4
+        string target = "2026";
+        for (int i = 0; i + 3 < n; i++) {
+            int diff = 0;
+            for (int j = 0; j < 4; j++) {
+                if (s[i + j] != target[j]) diff++;
+            }
+            make2026 = min(make2026, diff);
+        }
+
+        // Option 2: Break "2025" (at least 1 operation)
+        int break2025 = 1;
+
+        cout << min(make2026, break2025) << "\n";
+    }
+
+    return 0;
+}
