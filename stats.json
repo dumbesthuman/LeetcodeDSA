@@ -1,11 +1,11 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-14",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
-    "easy": 21,
+    "easy": 22,
     "medium": 8,
     "hard": 1,
     "basic": 6
@@ -46,7 +46,8 @@
     "Codeforces_1845A_-_Forbidden_Integer": true,
     "Codeforces_2244F_-_Anya_Loves_Trees": true,
     "Codeforces_2182A_-_New_Year_String": true,
-    "Codeforces_4A_-_Watermelon": true
+    "Codeforces_4A_-_Watermelon": true,
+    "LeetCode_Climbing_Stairs": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -54,7 +55,7 @@
     "2026-08-11": 7,
     "2026-08-12": 2,
     "2026-08-13": 6,
-    "2026-08-14": 6
+    "2026-08-14": 7
   },
   "todayProblems": [
     "1837A - Grasshopper on a Line",
@@ -62,6 +63,7 @@
     "1845A - Forbidden Integer",
     "2244F - Anya Loves Trees",
     "2182A - New Year String",
-    "4A - Watermelon"
+    "4A - Watermelon",
+    "Climbing Stairs"
   ]
 }
