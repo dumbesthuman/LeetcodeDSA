@@ -31,3 +31,4 @@
 | 29 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 13 Aug 2026 | 08:46 pm |
 | 30 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 13 Aug 2026 | 08:52 pm |
 | 31 | [1837A - Grasshopper on a Line](./Codeforces/basic/1837A%20-%20Grasshopper%20on%20a%20Line) | [Codeforces](https://codeforces.com/problemset/problem/1837/A) | basic | 14 Aug 2026 | 02:41 pm |
+| 32 | [9A - Die Roll](./Codeforces/basic/9A%20-%20Die%20Roll) | [Codeforces](https://codeforces.com/problemset/problem/9/A) | basic | 14 Aug 2026 | 02:42 pm |
