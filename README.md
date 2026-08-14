@@ -39,3 +39,4 @@
 | 37 | [2182A - New Year String](./Codeforces/basic/2182A%20-%20New%20Year%20String) | [Codeforces](https://codeforces.com/problemset/problem/2182/A) | basic | 14 Aug 2026 | 02:45 pm |
 | 38 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 14 Aug 2026 | 02:45 pm |
 | 39 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 14 Aug 2026 | 06:54 pm |
+| 40 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 14 Aug 2026 | 07:08 pm |
