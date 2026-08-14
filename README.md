@@ -37,3 +37,4 @@
 | 35 | [1862B - Sequence Game](./Codeforces/basic/1862B%20-%20Sequence%20Game) | [Codeforces](https://codeforces.com/problemset/problem/1862/B) | basic | 14 Aug 2026 | 02:42 pm |
 | 36 | [2244F - Anya Loves Trees](./Codeforces/basic/2244F%20-%20Anya%20Loves%20Trees) | [Codeforces](https://codeforces.com/problemset/problem/2244/F) | basic | 14 Aug 2026 | 02:42 pm |
 | 37 | [2182A - New Year String](./Codeforces/basic/2182A%20-%20New%20Year%20String) | [Codeforces](https://codeforces.com/problemset/problem/2182/A) | basic | 14 Aug 2026 | 02:45 pm |
+| 38 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 14 Aug 2026 | 02:45 pm |
