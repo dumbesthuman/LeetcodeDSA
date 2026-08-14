@@ -34,3 +34,4 @@
 | 32 | [9A - Die Roll](./Codeforces/basic/9A%20-%20Die%20Roll) | [Codeforces](https://codeforces.com/problemset/problem/9/A) | basic | 14 Aug 2026 | 02:42 pm |
 | 33 | [2244C - Stepan and Permutation](./Codeforces/basic/2244C%20-%20Stepan%20and%20Permutation) | [Codeforces](https://codeforces.com/problemset/problem/2244/C) | basic | 14 Aug 2026 | 02:42 pm |
 | 34 | [1845A - Forbidden Integer](./Codeforces/basic/1845A%20-%20Forbidden%20Integer) | [Codeforces](https://codeforces.com/problemset/problem/1845/A) | basic | 14 Aug 2026 | 02:42 pm |
+| 35 | [1862B - Sequence Game](./Codeforces/basic/1862B%20-%20Sequence%20Game) | [Codeforces](https://codeforces.com/problemset/problem/1862/B) | basic | 14 Aug 2026 | 02:42 pm |
