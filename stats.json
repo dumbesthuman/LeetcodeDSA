@@ -1,12 +1,12 @@
 {
-  "totalSolved": 40,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-08-15",
-  "todayCount": 2,
+  "totalSolved": 41,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-08-16",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 22,
-    "medium": 11,
+    "medium": 12,
     "hard": 1,
     "basic": 6
   },
@@ -50,7 +50,8 @@
     "LeetCode_Climbing_Stairs": true,
     "LeetCode_Min_Stack": true,
     "LeetCode_Koko_Eating_Bananas": true,
-    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
+    "LeetCode_Sort_Colors": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -59,10 +60,10 @@
     "2026-08-12": 2,
     "2026-08-13": 6,
     "2026-08-14": 8,
-    "2026-08-15": 2
+    "2026-08-15": 2,
+    "2026-08-16": 1
   },
   "todayProblems": [
-    "Koko Eating Bananas",
-    "Find Minimum in Rotated Sorted Array"
+    "Sort Colors"
   ]
 }
