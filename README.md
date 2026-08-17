@@ -45,3 +45,4 @@
 | 43 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 16 Aug 2026 | 10:58 pm |
 | 44 | [A - Creating Abbreviations](./Codeforces/basic/A%20-%20Creating%20Abbreviations) | [Codeforces](https://codeforces.com/contest/2257/problem/A) | basic | 17 Aug 2026 | 08:16 pm |
 | 45 | [Height Checker](./LeetCode/Easy/Height%20Checker) | [LeetCode](https://leetcode.com/problems/height-checker/) | Easy | 17 Aug 2026 | 09:33 pm |
+| 46 | [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) | [LeetCode](https://leetcode.com/problems/third-maximum-number/) | Easy | 17 Aug 2026 | 09:43 pm |
