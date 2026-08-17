@@ -43,3 +43,4 @@
 | 41 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 15 Aug 2026 | 11:22 am |
 | 42 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 15 Aug 2026 | 11:35 am |
 | 43 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 16 Aug 2026 | 10:58 pm |
+| 44 | [A - Creating Abbreviations](./Codeforces/basic/A%20-%20Creating%20Abbreviations) | [Codeforces](https://codeforces.com/contest/2257/problem/A) | basic | 17 Aug 2026 | 08:16 pm |
