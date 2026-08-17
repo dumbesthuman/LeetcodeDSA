@@ -1,11 +1,11 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 22,
+    "easy": 23,
     "medium": 12,
     "hard": 1,
     "basic": 7
@@ -52,7 +52,8 @@
     "LeetCode_Koko_Eating_Bananas": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Sort_Colors": true,
-    "Codeforces_A_-_Creating_Abbreviations": true
+    "Codeforces_A_-_Creating_Abbreviations": true,
+    "LeetCode_Height_Checker": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -63,9 +64,10 @@
     "2026-08-14": 8,
     "2026-08-15": 2,
     "2026-08-16": 1,
-    "2026-08-17": 1
+    "2026-08-17": 2
   },
   "todayProblems": [
-    "A - Creating Abbreviations"
+    "A - Creating Abbreviations",
+    "Height Checker"
   ]
 }
