@@ -49,3 +49,4 @@
 | 47 | [71A - Way Too Long Words](./Codeforces/basic/71A%20-%20Way%20Too%20Long%20Words) | [Codeforces](https://codeforces.com/problemset/problem/71/A) | basic | 18 Aug 2026 | 02:43 pm |
 | 48 | [1A - Theatre Square](./Codeforces/basic/1A%20-%20Theatre%20Square) | [Codeforces](https://codeforces.com/problemset/problem/1/A) | basic | 18 Aug 2026 | 02:57 pm |
 | 49 | [231A - Team](./Codeforces/basic/231A%20-%20Team) | [Codeforces](https://codeforces.com/problemset/problem/231/A) | basic | 18 Aug 2026 | 03:03 pm |
+| 50 | [282A - Bit](./Codeforces/basic/282A%20-%20Bit) | [Codeforces](https://codeforces.com/problemset/problem/282/A) | basic | 18 Aug 2026 | 03:09 pm |
