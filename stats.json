@@ -1,14 +1,14 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 24,
     "medium": 12,
     "hard": 1,
-    "basic": 8
+    "basic": 9
   },
   "syncedProblems": {
     "LeetCode_Contains_Duplicate": true,
@@ -55,7 +55,8 @@
     "Codeforces_A_-_Creating_Abbreviations": true,
     "LeetCode_Height_Checker": true,
     "LeetCode_Third_Maximum_Number": true,
-    "Codeforces_71A_-_Way_Too_Long_Words": true
+    "Codeforces_71A_-_Way_Too_Long_Words": true,
+    "Codeforces_1A_-_Theatre_Square": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -67,9 +68,10 @@
     "2026-08-15": 2,
     "2026-08-16": 1,
     "2026-08-17": 3,
-    "2026-08-18": 1
+    "2026-08-18": 2
   },
   "todayProblems": [
-    "71A - Way Too Long Words"
+    "71A - Way Too Long Words",
+    "1A - Theatre Square"
   ]
 }
