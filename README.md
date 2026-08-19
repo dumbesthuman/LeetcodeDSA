@@ -55,3 +55,4 @@
 | 53 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 19 Aug 2026 | 08:57 pm |
 | 54 | [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 19 Aug 2026 | 09:06 pm |
 | 55 | [112A - Petya and Strings](./Codeforces/basic/112A%20-%20Petya%20and%20Strings) | [Codeforces](https://codeforces.com/problemset/problem/112/A) | basic | 19 Aug 2026 | 09:16 pm |
+| 56 | [339A - Helpful Maths](./Codeforces/basic/339A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/problemset/problem/339/A) | basic | 19 Aug 2026 | 09:41 pm |

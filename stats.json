@@ -1,14 +1,14 @@
 {
-  "totalSolved": 53,
+  "totalSolved": 54,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 27,
     "medium": 13,
     "hard": 1,
-    "basic": 12
+    "basic": 13
   },
   "syncedProblems": {
     "LeetCode_Contains_Duplicate": true,
@@ -63,7 +63,8 @@
     "LeetCode_Reverse_String": true,
     "LeetCode_Middle_of_the_Linked_List": true,
     "LeetCode_Remove_Nth_Node_From_End_of_List": true,
-    "Codeforces_112A_-_Petya_and_Strings": true
+    "Codeforces_112A_-_Petya_and_Strings": true,
+    "Codeforces_339A_-_Helpful_Maths": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -76,11 +77,12 @@
     "2026-08-16": 1,
     "2026-08-17": 3,
     "2026-08-18": 6,
-    "2026-08-19": 3
+    "2026-08-19": 4
   },
   "todayProblems": [
     "Middle of the Linked List",
     "Remove Nth Node From End of List",
-    "112A - Petya and Strings"
+    "112A - Petya and Strings",
+    "339A - Helpful Maths"
   ]
 }
