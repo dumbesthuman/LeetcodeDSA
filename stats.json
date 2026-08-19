@@ -1,12 +1,12 @@
 {
-  "totalSolved": 51,
+  "totalSolved": 52,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 12,
+    "medium": 13,
     "hard": 1,
     "basic": 11
   },
@@ -61,7 +61,8 @@
     "Codeforces_282A_-_Bit": true,
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Reverse_String": true,
-    "LeetCode_Middle_of_the_Linked_List": true
+    "LeetCode_Middle_of_the_Linked_List": true,
+    "LeetCode_Remove_Nth_Node_From_End_of_List": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -74,9 +75,10 @@
     "2026-08-16": 1,
     "2026-08-17": 3,
     "2026-08-18": 6,
-    "2026-08-19": 1
+    "2026-08-19": 2
   },
   "todayProblems": [
-    "Middle of the Linked List"
+    "Middle of the Linked List",
+    "Remove Nth Node From End of List"
   ]
 }
