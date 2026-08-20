@@ -1,11 +1,11 @@
 {
-  "totalSolved": 55,
+  "totalSolved": 56,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-08-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 28,
+    "easy": 29,
     "medium": 13,
     "hard": 1,
     "basic": 13
@@ -65,7 +65,8 @@
     "LeetCode_Remove_Nth_Node_From_End_of_List": true,
     "Codeforces_112A_-_Petya_and_Strings": true,
     "Codeforces_339A_-_Helpful_Maths": true,
-    "LeetCode_Contains_Duplicate_II": true
+    "LeetCode_Contains_Duplicate_II": true,
+    "LeetCode_Max_Consecutive_Ones": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -79,9 +80,10 @@
     "2026-08-17": 3,
     "2026-08-18": 6,
     "2026-08-19": 4,
-    "2026-08-20": 1
+    "2026-08-20": 2
   },
   "todayProblems": [
-    "Contains Duplicate II"
+    "Contains Duplicate II",
+    "Max Consecutive Ones"
   ]
 }

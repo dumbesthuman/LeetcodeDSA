@@ -57,3 +57,4 @@
 | 55 | [112A - Petya and Strings](./Codeforces/basic/112A%20-%20Petya%20and%20Strings) | [Codeforces](https://codeforces.com/problemset/problem/112/A) | basic | 19 Aug 2026 | 09:16 pm |
 | 56 | [339A - Helpful Maths](./Codeforces/basic/339A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/problemset/problem/339/A) | basic | 19 Aug 2026 | 09:41 pm |
 | 57 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 20 Aug 2026 | 08:24 pm |
+| 58 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 20 Aug 2026 | 08:31 pm |
