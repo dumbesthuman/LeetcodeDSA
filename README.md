@@ -59,3 +59,4 @@
 | 57 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 20 Aug 2026 | 08:24 pm |
 | 58 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 20 Aug 2026 | 08:31 pm |
 | 59 | [Keyboard Row](./LeetCode/Easy/Keyboard%20Row) | [LeetCode](https://leetcode.com/problems/keyboard-row/) | Easy | 21 Aug 2026 | 01:18 pm |
+| 60 | [734A - Anton and Danik](./Codeforces/basic/734A%20-%20Anton%20and%20Danik) | [Codeforces](https://codeforces.com/problemset/problem/734/A) | basic | 21 Aug 2026 | 02:00 pm |

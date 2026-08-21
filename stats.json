@@ -1,14 +1,14 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-08-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 30,
     "medium": 13,
     "hard": 1,
-    "basic": 13
+    "basic": 14
   },
   "syncedProblems": {
     "LeetCode_Contains_Duplicate": true,
@@ -67,7 +67,8 @@
     "Codeforces_339A_-_Helpful_Maths": true,
     "LeetCode_Contains_Duplicate_II": true,
     "LeetCode_Max_Consecutive_Ones": true,
-    "LeetCode_Keyboard_Row": true
+    "LeetCode_Keyboard_Row": true,
+    "Codeforces_734A_-_Anton_and_Danik": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -82,9 +83,10 @@
     "2026-08-18": 6,
     "2026-08-19": 4,
     "2026-08-20": 2,
-    "2026-08-21": 1
+    "2026-08-21": 2
   },
   "todayProblems": [
-    "Keyboard Row"
+    "Keyboard Row",
+    "734A - Anton and Danik"
   ]
 }
