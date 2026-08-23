@@ -63,3 +63,4 @@
 | 61 | [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 22 Aug 2026 | 05:24 pm |
 | 62 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 22 Aug 2026 | 05:39 pm |
 | 63 | [Sort List](./LeetCode/Medium/Sort%20List) | [LeetCode](https://leetcode.com/problems/sort-list/) | Medium | 23 Aug 2026 | 07:50 pm |
+| 64 | [158A - Next Round](./Codeforces/basic/158A%20-%20Next%20Round) | [Codeforces](https://codeforces.com/problemset/problem/158/A) | basic | 23 Aug 2026 | 08:00 pm |
