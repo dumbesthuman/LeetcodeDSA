@@ -1,12 +1,12 @@
 {
-  "totalSolved": 60,
-  "currentStreak": 14,
-  "maxStreak": 14,
-  "lastSyncDate": "2026-08-22",
-  "todayCount": 2,
+  "totalSolved": 61,
+  "currentStreak": 15,
+  "maxStreak": 15,
+  "lastSyncDate": "2026-08-23",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 32,
-    "medium": 13,
+    "medium": 14,
     "hard": 1,
     "basic": 14
   },
@@ -70,7 +70,8 @@
     "LeetCode_Keyboard_Row": true,
     "Codeforces_734A_-_Anton_and_Danik": true,
     "LeetCode_Intersection_of_Two_Linked_Lists": true,
-    "LeetCode_Valid_Perfect_Square": true
+    "LeetCode_Valid_Perfect_Square": true,
+    "LeetCode_Sort_List": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -86,10 +87,10 @@
     "2026-08-19": 4,
     "2026-08-20": 2,
     "2026-08-21": 2,
-    "2026-08-22": 2
+    "2026-08-22": 2,
+    "2026-08-23": 1
   },
   "todayProblems": [
-    "Intersection of Two Linked Lists",
-    "Valid Perfect Square"
+    "Sort List"
   ]
 }
