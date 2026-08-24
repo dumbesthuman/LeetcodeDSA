@@ -64,3 +64,4 @@
 | 62 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 22 Aug 2026 | 05:39 pm |
 | 63 | [Sort List](./LeetCode/Medium/Sort%20List) | [LeetCode](https://leetcode.com/problems/sort-list/) | Medium | 23 Aug 2026 | 07:50 pm |
 | 64 | [158A - Next Round](./Codeforces/basic/158A%20-%20Next%20Round) | [Codeforces](https://codeforces.com/problemset/problem/158/A) | basic | 23 Aug 2026 | 08:00 pm |
+| 65 | [Summary Ranges](./LeetCode/Easy/Summary%20Ranges) | [LeetCode](https://leetcode.com/problems/summary-ranges/) | Easy | 24 Aug 2026 | 10:40 pm |
