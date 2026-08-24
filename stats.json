@@ -1,14 +1,14 @@
 {
-  "totalSolved": 63,
+  "totalSolved": 64,
   "currentStreak": 16,
   "maxStreak": 16,
   "lastSyncDate": "2026-08-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 33,
     "medium": 14,
     "hard": 1,
-    "basic": 15
+    "basic": 16
   },
   "syncedProblems": {
     "LeetCode_Contains_Duplicate": true,
@@ -73,7 +73,8 @@
     "LeetCode_Valid_Perfect_Square": true,
     "LeetCode_Sort_List": true,
     "Codeforces_158A_-_Next_Round": true,
-    "LeetCode_Summary_Ranges": true
+    "LeetCode_Summary_Ranges": true,
+    "Codeforces_50A_-_Domino_piling": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -91,9 +92,10 @@
     "2026-08-21": 2,
     "2026-08-22": 2,
     "2026-08-23": 2,
-    "2026-08-24": 1
+    "2026-08-24": 2
   },
   "todayProblems": [
-    "Summary Ranges"
+    "Summary Ranges",
+    "50A - Domino piling"
   ]
 }

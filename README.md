@@ -65,3 +65,4 @@
 | 63 | [Sort List](./LeetCode/Medium/Sort%20List) | [LeetCode](https://leetcode.com/problems/sort-list/) | Medium | 23 Aug 2026 | 07:50 pm |
 | 64 | [158A - Next Round](./Codeforces/basic/158A%20-%20Next%20Round) | [Codeforces](https://codeforces.com/problemset/problem/158/A) | basic | 23 Aug 2026 | 08:00 pm |
 | 65 | [Summary Ranges](./LeetCode/Easy/Summary%20Ranges) | [LeetCode](https://leetcode.com/problems/summary-ranges/) | Easy | 24 Aug 2026 | 10:40 pm |
+| 66 | [50A - Domino piling](./Codeforces/basic/50A%20-%20Domino%20piling) | [Codeforces](https://codeforces.com/problemset/problem/50/A) | basic | 24 Aug 2026 | 10:47 pm |
