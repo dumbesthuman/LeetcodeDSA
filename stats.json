@@ -1,14 +1,14 @@
 {
-  "totalSolved": 65,
+  "totalSolved": 66,
   "currentStreak": 17,
   "maxStreak": 17,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 33,
     "medium": 15,
     "hard": 1,
-    "basic": 16
+    "basic": 17
   },
   "syncedProblems": {
     "LeetCode_Contains_Duplicate": true,
@@ -75,7 +75,8 @@
     "Codeforces_158A_-_Next_Round": true,
     "LeetCode_Summary_Ranges": true,
     "Codeforces_50A_-_Domino_piling": true,
-    "LeetCode_Minimum_Path_Sum": true
+    "LeetCode_Minimum_Path_Sum": true,
+    "Codeforces_96A_-_Football": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -94,9 +95,10 @@
     "2026-08-22": 2,
     "2026-08-23": 2,
     "2026-08-24": 2,
-    "2026-08-25": 1
+    "2026-08-25": 2
   },
   "todayProblems": [
-    "Minimum Path Sum"
+    "Minimum Path Sum",
+    "96A - Football"
   ]
 }

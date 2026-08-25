@@ -67,3 +67,4 @@
 | 65 | [Summary Ranges](./LeetCode/Easy/Summary%20Ranges) | [LeetCode](https://leetcode.com/problems/summary-ranges/) | Easy | 24 Aug 2026 | 10:40 pm |
 | 66 | [50A - Domino piling](./Codeforces/basic/50A%20-%20Domino%20piling) | [Codeforces](https://codeforces.com/problemset/problem/50/A) | basic | 24 Aug 2026 | 10:47 pm |
 | 67 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 25 Aug 2026 | 10:44 pm |
+| 68 | [96A - Football](./Codeforces/basic/96A%20-%20Football) | [Codeforces](https://codeforces.com/problemset/problem/96/A) | basic | 25 Aug 2026 | 10:44 pm |
