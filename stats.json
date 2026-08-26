@@ -1,12 +1,12 @@
 {
-  "totalSolved": 67,
+  "totalSolved": 68,
   "currentStreak": 18,
   "maxStreak": 18,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 33,
-    "medium": 15,
+    "medium": 16,
     "hard": 1,
     "basic": 18
   },
@@ -77,7 +77,8 @@
     "Codeforces_50A_-_Domino_piling": true,
     "LeetCode_Minimum_Path_Sum": true,
     "Codeforces_96A_-_Football": true,
-    "Codeforces_266A_-_Stones_on_the_Table": true
+    "Codeforces_266A_-_Stones_on_the_Table": true,
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -97,9 +98,10 @@
     "2026-08-23": 2,
     "2026-08-24": 2,
     "2026-08-25": 2,
-    "2026-08-26": 1
+    "2026-08-26": 2
   },
   "todayProblems": [
-    "266A - Stones on the Table"
+    "266A - Stones on the Table",
+    "Best Time to Buy and Sell Stock II"
   ]
 }
