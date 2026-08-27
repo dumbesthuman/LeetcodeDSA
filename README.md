@@ -70,3 +70,4 @@
 | 68 | [96A - Football](./Codeforces/basic/96A%20-%20Football) | [Codeforces](https://codeforces.com/problemset/problem/96/A) | basic | 25 Aug 2026 | 10:44 pm |
 | 69 | [266A - Stones on the Table](./Codeforces/basic/266A%20-%20Stones%20on%20the%20Table) | [Codeforces](https://codeforces.com/problemset/problem/266/A) | basic | 26 Aug 2026 | 08:52 pm |
 | 70 | [Best Time to Buy and Sell Stock II](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | 26 Aug 2026 | 11:32 pm |
+| 71 | [318A - Even Odds](./Codeforces/basic/318A%20-%20Even%20Odds) | [Codeforces](https://codeforces.com/problemset/problem/318/A) | basic | 27 Aug 2026 | 09:03 pm |
