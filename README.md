@@ -72,3 +72,4 @@
 | 70 | [Best Time to Buy and Sell Stock II](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | 26 Aug 2026 | 11:32 pm |
 | 71 | [318A - Even Odds](./Codeforces/basic/318A%20-%20Even%20Odds) | [Codeforces](https://codeforces.com/problemset/problem/318/A) | basic | 27 Aug 2026 | 09:03 pm |
 | 72 | [N-Queens](./LeetCode/Hard/N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 28 Aug 2026 | 08:49 pm |
+| 73 | [466A - Cheap Travel](./Codeforces/basic/466A%20-%20Cheap%20Travel) | [Codeforces](https://codeforces.com/problemset/problem/466/A) | basic | 28 Aug 2026 | 08:57 pm |

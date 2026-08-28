@@ -1,14 +1,14 @@
 {
-  "totalSolved": 70,
+  "totalSolved": 71,
   "currentStreak": 20,
   "maxStreak": 20,
   "lastSyncDate": "2026-08-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 33,
     "medium": 16,
     "hard": 2,
-    "basic": 19
+    "basic": 20
   },
   "syncedProblems": {
     "LeetCode_Contains_Duplicate": true,
@@ -80,7 +80,8 @@
     "Codeforces_266A_-_Stones_on_the_Table": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true,
     "Codeforces_318A_-_Even_Odds": true,
-    "LeetCode_N-Queens": true
+    "LeetCode_N-Queens": true,
+    "Codeforces_466A_-_Cheap_Travel": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -102,9 +103,10 @@
     "2026-08-25": 2,
     "2026-08-26": 2,
     "2026-08-27": 1,
-    "2026-08-28": 1
+    "2026-08-28": 2
   },
   "todayProblems": [
-    "N-Queens"
+    "N-Queens",
+    "466A - Cheap Travel"
   ]
 }
