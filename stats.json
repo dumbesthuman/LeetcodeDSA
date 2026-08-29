@@ -1,14 +1,14 @@
 {
-  "totalSolved": 73,
+  "totalSolved": 74,
   "currentStreak": 21,
   "maxStreak": 21,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 34,
     "medium": 16,
     "hard": 2,
-    "basic": 21
+    "basic": 22
   },
   "syncedProblems": {
     "LeetCode_Contains_Duplicate": true,
@@ -83,7 +83,8 @@
     "LeetCode_N-Queens": true,
     "Codeforces_466A_-_Cheap_Travel": true,
     "LeetCode_Binary_Tree_Preorder_Traversal": true,
-    "Codeforces_2258A_-_Odd_Eraser": true
+    "Codeforces_2258A_-_Odd_Eraser": true,
+    "Codeforces_2258B1_-_Carrot_Chopdown_Easy_Version": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -106,10 +107,11 @@
     "2026-08-26": 2,
     "2026-08-27": 1,
     "2026-08-28": 2,
-    "2026-08-29": 2
+    "2026-08-29": 3
   },
   "todayProblems": [
     "Binary Tree Preorder Traversal",
-    "2258A - Odd Eraser"
+    "2258A - Odd Eraser",
+    "2258B1 - Carrot Chopdown Easy Version"
   ]
 }
