@@ -1,14 +1,14 @@
 {
-  "totalSolved": 72,
+  "totalSolved": 73,
   "currentStreak": 21,
   "maxStreak": 21,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 34,
     "medium": 16,
     "hard": 2,
-    "basic": 20
+    "basic": 21
   },
   "syncedProblems": {
     "LeetCode_Contains_Duplicate": true,
@@ -82,7 +82,8 @@
     "Codeforces_318A_-_Even_Odds": true,
     "LeetCode_N-Queens": true,
     "Codeforces_466A_-_Cheap_Travel": true,
-    "LeetCode_Binary_Tree_Preorder_Traversal": true
+    "LeetCode_Binary_Tree_Preorder_Traversal": true,
+    "Codeforces_2258A_-_Odd_Eraser": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -105,9 +106,10 @@
     "2026-08-26": 2,
     "2026-08-27": 1,
     "2026-08-28": 2,
-    "2026-08-29": 1
+    "2026-08-29": 2
   },
   "todayProblems": [
-    "Binary Tree Preorder Traversal"
+    "Binary Tree Preorder Traversal",
+    "2258A - Odd Eraser"
   ]
 }

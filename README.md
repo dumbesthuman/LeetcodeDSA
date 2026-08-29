@@ -74,3 +74,4 @@
 | 72 | [N-Queens](./LeetCode/Hard/N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 28 Aug 2026 | 08:49 pm |
 | 73 | [466A - Cheap Travel](./Codeforces/basic/466A%20-%20Cheap%20Travel) | [Codeforces](https://codeforces.com/problemset/problem/466/A) | basic | 28 Aug 2026 | 08:57 pm |
 | 74 | [Binary Tree Preorder Traversal](./LeetCode/Easy/Binary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | 29 Aug 2026 | 10:12 pm |
+| 75 | [2258A - Odd Eraser](./Codeforces/basic/2258A%20-%20Odd%20Eraser) | [Codeforces](https://codeforces.com/problemset/problem/2258/A) | basic | 29 Aug 2026 | 10:28 pm |
