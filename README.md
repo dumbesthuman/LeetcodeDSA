@@ -78,3 +78,4 @@
 | 76 | [2258B1 - Carrot Chopdown Easy Version](./Codeforces/basic/2258B1%20-%20Carrot%20Chopdown%20Easy%20Version) | [Codeforces](https://codeforces.com/problemset/problem/2258/B1) | basic | 29 Aug 2026 | 10:29 pm |
 | 77 | [2258B2 - Carrot Chopdown Hard Version](./Codeforces/basic/2258B2%20-%20Carrot%20Chopdown%20Hard%20Version) | [Codeforces](https://codeforces.com/problemset/problem/2258/B2) | basic | 29 Aug 2026 | 10:29 pm |
 | 78 | [427A - Police Recruits](./Codeforces/basic/427A%20-%20Police%20Recruits) | [Codeforces](https://codeforces.com/problemset/problem/427/A) | basic | 30 Aug 2026 | 08:26 pm |
+| 79 | [Remove Duplicates from Sorted List II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20List%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | 30 Aug 2026 | 08:27 pm |
