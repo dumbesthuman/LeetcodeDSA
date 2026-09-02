@@ -1,12 +1,12 @@
 {
-  "totalSolved": 77,
-  "currentStreak": 22,
+  "totalSolved": 78,
+  "currentStreak": 1,
   "maxStreak": 22,
-  "lastSyncDate": "2026-08-30",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-02",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 34,
-    "medium": 17,
+    "medium": 18,
     "hard": 2,
     "basic": 24
   },
@@ -87,7 +87,8 @@
     "Codeforces_2258B1_-_Carrot_Chopdown_Easy_Version": true,
     "Codeforces_2258B2_-_Carrot_Chopdown_Hard_Version": true,
     "Codeforces_427A_-_Police_Recruits": true,
-    "LeetCode_Remove_Duplicates_from_Sorted_List_II": true
+    "LeetCode_Remove_Duplicates_from_Sorted_List_II": true,
+    "LeetCode_Zigzag_Conversion": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -111,10 +112,10 @@
     "2026-08-27": 1,
     "2026-08-28": 2,
     "2026-08-29": 4,
-    "2026-08-30": 2
+    "2026-08-30": 2,
+    "2026-09-02": 1
   },
   "todayProblems": [
-    "427A - Police Recruits",
-    "Remove Duplicates from Sorted List II"
+    "Zigzag Conversion"
   ]
 }
