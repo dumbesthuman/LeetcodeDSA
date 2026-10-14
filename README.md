@@ -82,3 +82,4 @@
 | 80 | [Zigzag Conversion](./LeetCode/Medium/Zigzag%20Conversion) | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | Medium | 02 Sept 2026 | 11:14 pm |
 | 81 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 14 Oct 2026 | 06:03 pm |
 | 82 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 14 Oct 2026 | 06:11 pm |
+| 83 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 14 Oct 2026 | 06:26 pm |
