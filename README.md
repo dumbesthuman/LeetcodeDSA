@@ -83,3 +83,4 @@
 | 81 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 14 Oct 2026 | 06:03 pm |
 | 82 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 14 Oct 2026 | 06:11 pm |
 | 83 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 14 Oct 2026 | 06:26 pm |
+| 84 | [Reverse Bits](./LeetCode/Easy/Reverse%20Bits) | [LeetCode](https://leetcode.com/problems/reverse-bits/) | Easy | 15 Oct 2026 | 04:56 pm |
