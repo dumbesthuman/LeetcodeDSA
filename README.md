@@ -94,3 +94,4 @@
 | 92 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 17 Oct 2026 | 06:34 pm |
 | 93 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 17 Oct 2026 | 07:08 pm |
 | 94 | [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 17 Oct 2026 | 07:15 pm |
+| 95 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 17 Oct 2026 | 07:21 pm |
