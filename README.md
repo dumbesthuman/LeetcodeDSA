@@ -98,3 +98,4 @@
 | 96 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 18 Oct 2026 | 11:28 pm |
 | 97 | [Reverse String II](./LeetCode/Easy/Reverse%20String%20II) | [LeetCode](https://leetcode.com/problems/reverse-string-ii/) | Easy | 18 Oct 2026 | 11:32 pm |
 | 98 | [Count Pairs Whose Sum is Less than Target](./LeetCode/Easy/Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target) | [LeetCode](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | Easy | 18 Oct 2026 | 11:33 pm |
+| 99 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 18 Oct 2026 | 11:35 pm |
