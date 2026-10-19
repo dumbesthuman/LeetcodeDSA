@@ -1,11 +1,11 @@
 {
-  "totalSolved": 103,
+  "totalSolved": 104,
   "currentStreak": 6,
   "maxStreak": 22,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 49,
+    "easy": 50,
     "medium": 27,
     "hard": 2,
     "basic": 25
@@ -113,7 +113,8 @@
     "GeeksForGeeks_Second_Largest": true,
     "LeetCode_Duplicate_Emails": true,
     "LeetCode_Employees_Earning_More_Than_Their_Managers": true,
-    "LeetCode_Rising_Temperature": true
+    "LeetCode_Rising_Temperature": true,
+    "LeetCode_Delete_Duplicate_Emails": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -144,13 +145,14 @@
     "2026-10-16": 4,
     "2026-10-17": 4,
     "2026-10-18": 5,
-    "2026-10-19": 5
+    "2026-10-19": 6
   },
   "todayProblems": [
     "Largest in Array",
     "Second Largest",
     "Duplicate Emails",
     "Employees Earning More Than Their Managers",
-    "Rising Temperature"
+    "Rising Temperature",
+    "Delete Duplicate Emails"
   ]
 }
