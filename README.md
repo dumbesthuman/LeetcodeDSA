@@ -104,3 +104,4 @@
 | 102 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 19 Oct 2026 | 09:42 pm |
 | 103 | [Duplicate Emails](./LeetCode/Easy/Duplicate%20Emails) | [LeetCode](https://leetcode.com/problems/duplicate-emails/) | Easy | 19 Oct 2026 | 09:52 pm |
 | 104 | [Employees Earning More Than Their Managers](./LeetCode/Easy/Employees%20Earning%20More%20Than%20Their%20Managers) | [LeetCode](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | 19 Oct 2026 | 09:53 pm |
+| 105 | [Rising Temperature](./LeetCode/Easy/Rising%20Temperature) | [LeetCode](https://leetcode.com/problems/rising-temperature/) | Easy | 19 Oct 2026 | 09:54 pm |
