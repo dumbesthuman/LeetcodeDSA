@@ -1,14 +1,14 @@
 {
-  "totalSolved": 98,
-  "currentStreak": 5,
+  "totalSolved": 99,
+  "currentStreak": 6,
   "maxStreak": 22,
-  "lastSyncDate": "2026-10-18",
-  "todayCount": 5,
+  "lastSyncDate": "2026-10-19",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 45,
     "medium": 27,
     "hard": 2,
-    "basic": 24
+    "basic": 25
   },
   "syncedProblems": {
     "LeetCode_Contains_Duplicate": true,
@@ -108,7 +108,8 @@
     "LeetCode_Reverse_String_II": true,
     "LeetCode_Count_Pairs_Whose_Sum_is_Less_than_Target": true,
     "LeetCode_Remove_Outermost_Parentheses": true,
-    "LeetCode_String_Matching_in_an_Array": true
+    "LeetCode_String_Matching_in_an_Array": true,
+    "GeeksForGeeks_Largest_in_Array": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -138,13 +139,10 @@
     "2026-10-15": 4,
     "2026-10-16": 4,
     "2026-10-17": 4,
-    "2026-10-18": 5
+    "2026-10-18": 5,
+    "2026-10-19": 1
   },
   "todayProblems": [
-    "Find All Numbers Disappeared in an Array",
-    "Reverse String II",
-    "Count Pairs Whose Sum is Less than Target",
-    "Remove Outermost Parentheses",
-    "String Matching in an Array"
+    "Largest in Array"
   ]
 }

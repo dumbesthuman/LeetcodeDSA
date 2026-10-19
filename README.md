@@ -100,3 +100,4 @@
 | 98 | [Count Pairs Whose Sum is Less than Target](./LeetCode/Easy/Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target) | [LeetCode](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | Easy | 18 Oct 2026 | 11:33 pm |
 | 99 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 18 Oct 2026 | 11:35 pm |
 | 100 | [String Matching in an Array](./LeetCode/Easy/String%20Matching%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/string-matching-in-an-array/) | Easy | 18 Oct 2026 | 11:41 pm |
+| 101 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | Basic | 19 Oct 2026 | 09:39 pm |
