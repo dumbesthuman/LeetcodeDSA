@@ -111,3 +111,4 @@
 | 109 | [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 20 Oct 2026 | 02:00 pm |
 | 110 | [Delete Node in a Linked List](./LeetCode/Medium/Delete%20Node%20in%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | 20 Oct 2026 | 02:14 pm |
 | 111 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 21 Oct 2026 | 01:02 pm |
+| 112 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 21 Oct 2026 | 01:16 pm |
