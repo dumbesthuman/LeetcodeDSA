@@ -113,3 +113,4 @@
 | 111 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 21 Oct 2026 | 01:02 pm |
 | 112 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 21 Oct 2026 | 01:16 pm |
 | 113 | [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 21 Oct 2026 | 01:31 pm |
+| 114 | [LRU Cache](./LeetCode/Medium/LRU%20Cache) | [LeetCode](https://leetcode.com/problems/lru-cache/) | Medium | 21 Oct 2026 | 01:52 pm |
