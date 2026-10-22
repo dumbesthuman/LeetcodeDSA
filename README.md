@@ -119,3 +119,4 @@
 | 117 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 22 Oct 2026 | 11:11 am |
 | 118 | [Article Views I](./LeetCode/Easy/Article%20Views%20I) | [LeetCode](https://leetcode.com/problems/article-views-i/) | Easy | 22 Oct 2026 | 11:14 am |
 | 119 | [Invalid Tweets](./LeetCode/Easy/Invalid%20Tweets) | [LeetCode](https://leetcode.com/problems/invalid-tweets/) | Easy | 22 Oct 2026 | 11:19 am |
+| 120 | [Replace Employee ID With The Unique Identifier](./LeetCode/Easy/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier) | [LeetCode](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | 22 Oct 2026 | 11:23 am |
