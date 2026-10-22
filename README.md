@@ -118,3 +118,4 @@
 | 116 | [Find Customer Referee](./LeetCode/Easy/Find%20Customer%20Referee) | [LeetCode](https://leetcode.com/problems/find-customer-referee/) | Easy | 22 Oct 2026 | 11:09 am |
 | 117 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 22 Oct 2026 | 11:11 am |
 | 118 | [Article Views I](./LeetCode/Easy/Article%20Views%20I) | [LeetCode](https://leetcode.com/problems/article-views-i/) | Easy | 22 Oct 2026 | 11:14 am |
+| 119 | [Invalid Tweets](./LeetCode/Easy/Invalid%20Tweets) | [LeetCode](https://leetcode.com/problems/invalid-tweets/) | Easy | 22 Oct 2026 | 11:19 am |
