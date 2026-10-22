@@ -116,3 +116,4 @@
 | 114 | [LRU Cache](./LeetCode/Medium/LRU%20Cache) | [LeetCode](https://leetcode.com/problems/lru-cache/) | Medium | 21 Oct 2026 | 01:52 pm |
 | 115 | [Recyclable and Low Fat Products](./LeetCode/Easy/Recyclable%20and%20Low%20Fat%20Products) | [LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | 22 Oct 2026 | 11:06 am |
 | 116 | [Find Customer Referee](./LeetCode/Easy/Find%20Customer%20Referee) | [LeetCode](https://leetcode.com/problems/find-customer-referee/) | Easy | 22 Oct 2026 | 11:09 am |
+| 117 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 22 Oct 2026 | 11:11 am |
