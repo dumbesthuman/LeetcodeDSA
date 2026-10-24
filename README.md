@@ -123,3 +123,4 @@
 | 121 | [Product Sales Analysis I](./LeetCode/Easy/Product%20Sales%20Analysis%20I) | [LeetCode](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | 22 Oct 2026 | 11:26 am |
 | 122 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 24 Oct 2026 | 05:52 am |
 | 123 | [Min Cost Climbing Stairs](./LeetCode/Easy/Min%20Cost%20Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 24 Oct 2026 | 06:05 am |
+| 124 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 24 Oct 2026 | 06:15 am |
