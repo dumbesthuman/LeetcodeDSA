@@ -121,3 +121,4 @@
 | 119 | [Invalid Tweets](./LeetCode/Easy/Invalid%20Tweets) | [LeetCode](https://leetcode.com/problems/invalid-tweets/) | Easy | 22 Oct 2026 | 11:19 am |
 | 120 | [Replace Employee ID With The Unique Identifier](./LeetCode/Easy/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier) | [LeetCode](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | 22 Oct 2026 | 11:23 am |
 | 121 | [Product Sales Analysis I](./LeetCode/Easy/Product%20Sales%20Analysis%20I) | [LeetCode](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | 22 Oct 2026 | 11:26 am |
+| 122 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 24 Oct 2026 | 05:52 am |
