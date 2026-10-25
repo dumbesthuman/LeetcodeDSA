@@ -129,3 +129,4 @@
 | 127 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 25 Oct 2026 | 12:10 pm |
 | 128 | [Partition Equal Subset Sum](./LeetCode/Medium/Partition%20Equal%20Subset%20Sum) | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | 25 Oct 2026 | 12:30 pm |
 | 129 | [Longest Increasing Subsequence](./LeetCode/Medium/Longest%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | 25 Oct 2026 | 12:49 pm |
+| 130 | [Longest Common Subsequence](./LeetCode/Medium/Longest%20Common%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 25 Oct 2026 | 01:20 pm |
