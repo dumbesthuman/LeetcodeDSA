@@ -126,3 +126,4 @@
 | 124 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 24 Oct 2026 | 06:15 am |
 | 125 | [House Robber II](./LeetCode/Medium/House%20Robber%20II) | [LeetCode](https://leetcode.com/problems/house-robber-ii/) | Medium | 24 Oct 2026 | 06:38 am |
 | 126 | [N-th Tribonacci Number](./LeetCode/Easy/N-th%20Tribonacci%20Number) | [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | 24 Oct 2026 | 06:48 am |
+| 127 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 25 Oct 2026 | 12:10 pm |
