@@ -1,11 +1,11 @@
 {
-  "totalSolved": 130,
+  "totalSolved": 131,
   "currentStreak": 3,
   "maxStreak": 22,
   "lastSyncDate": "2026-10-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 65,
+    "easy": 66,
     "medium": 38,
     "hard": 2,
     "basic": 25
@@ -140,7 +140,8 @@
     "LeetCode_Longest_Increasing_Subsequence": true,
     "LeetCode_Longest_Common_Subsequence": true,
     "LeetCode_Word_Break": true,
-    "LeetCode_Search_Insert_Position": true
+    "LeetCode_Search_Insert_Position": true,
+    "LeetCode_Sqrt(x)": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -177,9 +178,10 @@
     "2026-10-22": 7,
     "2026-10-24": 5,
     "2026-10-25": 5,
-    "2026-10-26": 1
+    "2026-10-26": 2
   },
   "todayProblems": [
-    "Search Insert Position"
+    "Search Insert Position",
+    "Sqrt(x)"
   ]
 }
