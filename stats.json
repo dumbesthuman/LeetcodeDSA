@@ -1,12 +1,12 @@
 {
-  "totalSolved": 132,
+  "totalSolved": 133,
   "currentStreak": 4,
   "maxStreak": 22,
   "lastSyncDate": "2026-10-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 66,
-    "medium": 39,
+    "medium": 40,
     "hard": 2,
     "basic": 25
   },
@@ -142,7 +142,8 @@
     "LeetCode_Word_Break": true,
     "LeetCode_Search_Insert_Position": true,
     "LeetCode_Sqrt(x)": true,
-    "LeetCode_Delete_and_Earn": true
+    "LeetCode_Delete_and_Earn": true,
+    "LeetCode_Unique_Paths": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -180,9 +181,10 @@
     "2026-10-24": 5,
     "2026-10-25": 5,
     "2026-10-26": 2,
-    "2026-10-27": 1
+    "2026-10-27": 2
   },
   "todayProblems": [
-    "Delete and Earn"
+    "Delete and Earn",
+    "Unique Paths"
   ]
 }

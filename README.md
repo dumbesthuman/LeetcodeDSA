@@ -134,3 +134,4 @@
 | 132 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 26 Oct 2026 | 08:10 pm |
 | 133 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 26 Oct 2026 | 10:01 pm |
 | 134 | [Delete and Earn](./LeetCode/Medium/Delete%20and%20Earn) | [LeetCode](https://leetcode.com/problems/delete-and-earn/) | Medium | 27 Oct 2026 | 11:08 pm |
+| 135 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 27 Oct 2026 | 11:09 pm |
