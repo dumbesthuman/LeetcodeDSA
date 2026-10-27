@@ -133,3 +133,4 @@
 | 131 | [Word Break](./LeetCode/Medium/Word%20Break) | [LeetCode](https://leetcode.com/problems/word-break/) | Medium | 25 Oct 2026 | 04:53 pm |
 | 132 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 26 Oct 2026 | 08:10 pm |
 | 133 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 26 Oct 2026 | 10:01 pm |
+| 134 | [Delete and Earn](./LeetCode/Medium/Delete%20and%20Earn) | [LeetCode](https://leetcode.com/problems/delete-and-earn/) | Medium | 27 Oct 2026 | 11:08 pm |
