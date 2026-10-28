@@ -136,3 +136,4 @@
 | 134 | [Delete and Earn](./LeetCode/Medium/Delete%20and%20Earn) | [LeetCode](https://leetcode.com/problems/delete-and-earn/) | Medium | 27 Oct 2026 | 11:08 pm |
 | 135 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 27 Oct 2026 | 11:09 pm |
 | 136 | [Kth Largest Element in a Stream](./LeetCode/Easy/Kth%20Largest%20Element%20in%20a%20Stream) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | 28 Oct 2026 | 10:05 pm |
+| 137 | [Last Stone Weight](./LeetCode/Easy/Last%20Stone%20Weight) | [LeetCode](https://leetcode.com/problems/last-stone-weight/) | Easy | 28 Oct 2026 | 10:13 pm |
