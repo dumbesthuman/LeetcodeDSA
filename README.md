@@ -140,3 +140,4 @@
 | 138 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 28 Oct 2026 | 10:35 pm |
 | 139 | [Take Gifts From the Richest Pile](./LeetCode/Easy/Take%20Gifts%20From%20the%20Richest%20Pile) | [LeetCode](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | Easy | 28 Oct 2026 | 10:44 pm |
 | 140 | [K Closest Points to Origin](./LeetCode/Medium/K%20Closest%20Points%20to%20Origin) | [LeetCode](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 29 Oct 2026 | 09:03 pm |
+| 141 | [Kth Smallest Element in a Sorted Matrix](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | 29 Oct 2026 | 11:08 pm |

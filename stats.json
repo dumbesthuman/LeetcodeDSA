@@ -1,12 +1,12 @@
 {
-  "totalSolved": 138,
+  "totalSolved": 139,
   "currentStreak": 6,
   "maxStreak": 22,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 69,
-    "medium": 42,
+    "medium": 43,
     "hard": 2,
     "basic": 25
   },
@@ -148,7 +148,8 @@
     "LeetCode_Last_Stone_Weight": true,
     "LeetCode_Kth_Largest_Element_in_an_Array": true,
     "LeetCode_Take_Gifts_From_the_Richest_Pile": true,
-    "LeetCode_K_Closest_Points_to_Origin": true
+    "LeetCode_K_Closest_Points_to_Origin": true,
+    "LeetCode_Kth_Smallest_Element_in_a_Sorted_Matrix": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -188,9 +189,10 @@
     "2026-10-26": 2,
     "2026-10-27": 2,
     "2026-10-28": 4,
-    "2026-10-29": 1
+    "2026-10-29": 2
   },
   "todayProblems": [
-    "K Closest Points to Origin"
+    "K Closest Points to Origin",
+    "Kth Smallest Element in a Sorted Matrix"
   ]
 }
