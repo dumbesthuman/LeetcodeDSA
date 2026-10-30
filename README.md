@@ -143,3 +143,4 @@
 | 141 | [Kth Smallest Element in a Sorted Matrix](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | 29 Oct 2026 | 11:08 pm |
 | 142 | [Kth Missing Positive Number](./LeetCode/Easy/Kth%20Missing%20Positive%20Number) | [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | 29 Oct 2026 | 11:16 pm |
 | 143 | [Find the Kth Largest Integer in the Array](./LeetCode/Medium/Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array) | [LeetCode](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | Medium | 29 Oct 2026 | 11:27 pm |
+| 144 | [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) | [LeetCode](https://leetcode.com/problems/number-of-recent-calls/) | Easy | 30 Oct 2026 | 09:26 pm |
