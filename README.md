@@ -145,3 +145,4 @@
 | 143 | [Find the Kth Largest Integer in the Array](./LeetCode/Medium/Find%20the%20Kth%20Largest%20Integer%20in%20the%20Array) | [LeetCode](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | Medium | 29 Oct 2026 | 11:27 pm |
 | 144 | [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) | [LeetCode](https://leetcode.com/problems/number-of-recent-calls/) | Easy | 30 Oct 2026 | 09:26 pm |
 | 145 | [Number of Students Unable to Eat Lunch](./LeetCode/Easy/Number%20of%20Students%20Unable%20to%20Eat%20Lunch) | [LeetCode](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | 30 Oct 2026 | 09:42 pm |
+| 146 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 31 Oct 2026 | 10:56 pm |
