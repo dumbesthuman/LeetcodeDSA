@@ -153,3 +153,4 @@
 | 151 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./LeetCode/Medium/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium | 01 Nov 2026 | 09:49 pm |
 | 152 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 02 Nov 2026 | 12:08 am |
 | 153 | [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) | [LeetCode](https://leetcode.com/problems/asteroid-collision/) | Medium | 02 Nov 2026 | 11:34 pm |
+| 154 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 03 Nov 2026 | 11:03 pm |
