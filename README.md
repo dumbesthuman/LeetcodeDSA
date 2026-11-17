@@ -155,3 +155,4 @@
 | 153 | [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) | [LeetCode](https://leetcode.com/problems/asteroid-collision/) | Medium | 02 Nov 2026 | 11:34 pm |
 | 154 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 03 Nov 2026 | 11:03 pm |
 | 155 | [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | Easy | 16 Nov 2026 | 11:32 am |
+| 156 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 17 Nov 2026 | 01:44 pm |
