@@ -158,3 +158,4 @@
 | 156 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 17 Nov 2026 | 01:44 pm |
 | 157 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 20 Nov 2026 | 08:31 pm |
 | 158 | [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | Hard | 21 Nov 2026 | 08:39 pm |
+| 159 | [Reverse Linked List II](./LeetCode/Medium/Reverse%20Linked%20List%20II) | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 22 Nov 2026 | 09:20 pm |

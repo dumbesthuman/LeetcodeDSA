@@ -1,12 +1,12 @@
 {
-  "totalSolved": 156,
-  "currentStreak": 2,
+  "totalSolved": 157,
+  "currentStreak": 3,
   "maxStreak": 22,
-  "lastSyncDate": "2026-11-21",
+  "lastSyncDate": "2026-11-22",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 76,
-    "medium": 52,
+    "medium": 53,
     "hard": 3,
     "basic": 25
   },
@@ -166,7 +166,8 @@
     "LeetCode_Isomorphic_Strings": true,
     "LeetCode_Longest_Common_Prefix": true,
     "LeetCode_Rotate_List": true,
-    "LeetCode_First_Missing_Positive": true
+    "LeetCode_First_Missing_Positive": true,
+    "LeetCode_Reverse_Linked_List_II": true
   },
   "activityHistory": {
     "2026-08-09": 10,
@@ -215,9 +216,10 @@
     "2026-11-16": 1,
     "2026-11-17": 1,
     "2026-11-20": 1,
-    "2026-11-21": 1
+    "2026-11-21": 1,
+    "2026-11-22": 1
   },
   "todayProblems": [
-    "First Missing Positive"
+    "Reverse Linked List II"
   ]
 }
